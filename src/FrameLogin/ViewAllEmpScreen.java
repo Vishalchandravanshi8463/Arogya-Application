@@ -10,9 +10,9 @@ import java.util.List;
 import java.util.Vector;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-import sanjeevaniapp.dao.EmpDao;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.EmpPojo;
+import arogyaapp.dao.EmpDao;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.EmpPojo;
 
 /**
  *
@@ -55,7 +55,7 @@ public class ViewAllEmpScreen extends javax.swing.JFrame {
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
-        jLabel3.setText("Sanjeevani Application");
+        jLabel3.setText("Arogya Application");
         jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(430, 40, -1, -1));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sanjeevaniapp/icons/icons/HomePageBG.jpg"))); // NOI18N

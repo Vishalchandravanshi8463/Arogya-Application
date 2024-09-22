@@ -12,12 +12,12 @@ import java.util.Date;
 import java.util.List;
 import java.util.Map;
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dao.AppointmentDao;
-import sanjeevaniapp.dao.DoctorsDao;
-import sanjeevaniapp.dao.PatientDao;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.AppointmentPojo;
-import sanjeevaniapp.pojo.PatientPojo;
+import arogyaapp.dao.AppointmentDao;
+import arogyaapp.dao.DoctorsDao;
+import arogyaapp.dao.PatientDao;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.AppointmentPojo;
+import arogyaapp.pojo.PatientPojo;
 
 /**
  *
@@ -93,7 +93,7 @@ public class UpdatePatientScreen extends javax.swing.JFrame {
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel15.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
-        jLabel15.setText("Sanjeevani Application");
+        jLabel15.setText("Arogya Application");
         jPanel1.add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 50, -1, -1));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sanjeevaniapp/icons/icons/HomePageBG1.jpg"))); // NOI18N

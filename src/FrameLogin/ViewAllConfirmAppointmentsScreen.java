@@ -9,10 +9,10 @@ import java.sql.SQLException;
 import java.util.List;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-import sanjeevaniapp.dao.AppointmentDao;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.AppointmentPojo;
-import sanjeevaniapp.pojo.UserProfile;
+import arogyaapp.dao.AppointmentDao;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.AppointmentPojo;
+import arogyaapp.pojo.UserProfile;
 
 /**
  *

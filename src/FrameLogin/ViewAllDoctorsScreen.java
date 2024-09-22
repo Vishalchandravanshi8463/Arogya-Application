@@ -5,9 +5,9 @@ import java.sql.SQLException;
 import java.util.List;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-import sanjeevaniapp.dao.DoctorsDao;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.DoctorPojo;
+import arogyaapp.dao.DoctorsDao;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.DoctorPojo;
 
 
 public class ViewAllDoctorsScreen extends javax.swing.JFrame {
@@ -37,7 +37,7 @@ public class ViewAllDoctorsScreen extends javax.swing.JFrame {
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
-        jLabel3.setText("Sanjeevani Application");
+        jLabel3.setText("Arogya Application");
         jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 10, -1, -1));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sanjeevaniapp/icons/icons/HomePageBG1.jpg"))); // NOI18N

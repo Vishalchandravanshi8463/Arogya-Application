@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sanjeevaniapp.utility;
+package arogyaapp.utility;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -23,8 +23,8 @@ public boolean send(String number, String message) throws Exception{
     StringBuilder result = null;
     
     // change these values to match your own account
-    String myUsername = "vicky_jawariya";
-      String myPassword = "9128017877Vicky";
+    String myUsername = "vishalpa";
+      String myPassword = "VishalPatel1";
 
     
     number = "91"+number;

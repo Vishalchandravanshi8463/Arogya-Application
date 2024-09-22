@@ -9,8 +9,8 @@ import java.sql.SQLException;
 import java.util.Map;
 import java.util.Set;
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dao.ReceptionistDao;
-import sanjeevaniapp.dbutil.DBConnection;
+import arogyaapp.dao.ReceptionistDao;
+import arogyaapp.dbutil.DBConnection;
 
 /**
  *

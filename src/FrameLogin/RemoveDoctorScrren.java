@@ -3,9 +3,9 @@ package FrameLogin;
 import java.sql.SQLException;
 import java.util.List;
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dao.DoctorsDao;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.UserProfile;
+import arogyaapp.dao.DoctorsDao;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.UserProfile;
 
 public class RemoveDoctorScrren extends javax.swing.JFrame {
 

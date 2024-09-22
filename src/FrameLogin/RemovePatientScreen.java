@@ -8,9 +8,9 @@ package FrameLogin;
 import java.sql.SQLException;
 import java.util.List;
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dao.AppointmentDao;
-import sanjeevaniapp.dao.PatientDao;
-import sanjeevaniapp.dbutil.DBConnection;
+import arogyaapp.dao.AppointmentDao;
+import arogyaapp.dao.PatientDao;
+import arogyaapp.dbutil.DBConnection;
 
 /**
  *

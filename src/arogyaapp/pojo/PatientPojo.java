@@ -1,4 +1,4 @@
-package sanjeevaniapp.pojo;
+package arogyaapp.pojo;
 
 import java.sql.Date;
 

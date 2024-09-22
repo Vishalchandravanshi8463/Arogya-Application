@@ -3,17 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Users/vishal/JavaProject/SanjeevaniApp/src/sanjeevaniapp/utility/DBConnection.java</file>
-            <file>file:/D:/Users/vishal/JavaProject/SanjeevaniApp/src/sanjeevaniapp/utility/OTPSender.java</file>
-            <file>file:/D:/Users/vishal/JavaProject/SanjeevaniApp/src/FrameLogin/RemoveDoctorScrren.java</file>
-            <file>file:/D:/Users/vishal/JavaProject/SanjeevaniApp/src/sanjeevaniapp/utility/Sender.java</file>
-            <file>file:/D:/Users/vishal/JavaProject/SanjeevaniApp/src/FrameLogin/ViewAllDoctorsScreen.java</file>
-            <file>file:/D:/Users/vishal/JavaProject/SanjeevaniApp/src/FrameLogin/MainFrameSanjeevaniApplication.java</file>
-            <file>file:/D:/Users/vishal/JavaProject/SanjeevaniApp/src/FrameLogin/DoctorUsingOptionFrame.java</file>
-            <file>file:/D:/Users/vishal/JavaProject/SanjeevaniApp/src/FrameLogin/LoginScrrenn.java</file>
-            <file>file:/D:/Users/vishal/JavaProject/SanjeevaniApp/src/FrameLogin/AddEmployeeScreen.java</file>
-            <file>file:/D:/Users/vishal/JavaProject/SanjeevaniApp/src/sanjeevaniapp/utility/SmsSender.java</file>
-            <file>file:/D:/Users/vishal/JavaProject/SanjeevaniApp/src/FrameLogin/ManageEmployeeScreen.java</file>
+            <file>file:/D:/Users/vishal/JavaProject/ArogyaApp/src/FrameLogin/ConfirmAppointmentScreen.java</file>
+            <file>file:/D:/Users/vishal/JavaProject/ArogyaApp/src/arogyaapp/pojo/UserProfile.java</file>
+            <file>file:/D:/Users/vishal/JavaProject/ArogyaApp/src/arogyaapp/utility/SmsSender.java</file>
+            <file>file:/D:/Users/vishal/JavaProject/ArogyaApp/src/arogyaapp/utility/Sender.java</file>
+            <file>file:/D:/Users/vishal/JavaProject/ArogyaApp/src/arogyaapp/pojo/UserPojo.java</file>
         </group>
     </open-files>
 </project-private>

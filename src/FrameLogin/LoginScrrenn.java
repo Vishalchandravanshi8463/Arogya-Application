@@ -8,11 +8,11 @@ package FrameLogin;
 import java.sql.SQLException;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dao.UserDao;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.User;
-import sanjeevaniapp.utility.PasswordEncryption;
-import sanjeevaniapp.pojo.UserProfile;
+import arogyaapp.dao.UserDao;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.User;
+import arogyaapp.utility.PasswordEncryption;
+import arogyaapp.pojo.UserProfile;
 //import sanjeevaniapp.utility.UserProfile;
 /**
  *
@@ -66,7 +66,7 @@ public class LoginScrrenn extends javax.swing.JFrame {
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel5.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
-        jLabel5.setText("Sanjeevani Application");
+        jLabel5.setText("Arogya Application");
         jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 40, -1, -1));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sanjeevaniapp/icons/icons/HomePageBG.jpg"))); // NOI18N

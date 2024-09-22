@@ -10,13 +10,13 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dao.DoctorsDao;
-import sanjeevaniapp.dao.EmpDao;
-import sanjeevaniapp.dao.UserDao;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.DoctorPojo;
-import sanjeevaniapp.pojo.UserPojo;
-import sanjeevaniapp.utility.PasswordEncryption;
+import arogyaapp.dao.DoctorsDao;
+import arogyaapp.dao.EmpDao;
+import arogyaapp.dao.UserDao;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.DoctorPojo;
+import arogyaapp.pojo.UserPojo;
+import arogyaapp.utility.PasswordEncryption;
 
 /**
  *
@@ -85,7 +85,7 @@ public class RegisterDoctorFrame extends javax.swing.JFrame {
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel15.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
-        jLabel15.setText("Sanjeevani Application");
+        jLabel15.setText("Arogya Application");
         jPanel1.add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(440, 70, -1, -1));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sanjeevaniapp/icons/icons/HomePageBG1.jpg"))); // NOI18N

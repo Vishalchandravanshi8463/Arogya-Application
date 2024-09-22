@@ -6,8 +6,8 @@
 package FrameLogin;
 
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.UserProfile;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.UserProfile;
 
 /**
  *

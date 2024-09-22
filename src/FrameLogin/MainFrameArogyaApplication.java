@@ -2,9 +2,9 @@ package FrameLogin;
 
 import java.util.Random;
 
-public class MainFrameSanjeevaniApplication extends javax.swing.JFrame {
+public class MainFrameArogyaApplication extends javax.swing.JFrame {
 
-    public MainFrameSanjeevaniApplication() {
+    public MainFrameArogyaApplication() {
         initComponents();
         jProgressBar1.setStringPainted(true);
         SplashFrameThread obj = new SplashFrameThread();
@@ -27,7 +27,7 @@ public class MainFrameSanjeevaniApplication extends javax.swing.JFrame {
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
-        jLabel2.setText("WELCOME TO SANJEEVANI APPLICATION ");
+        jLabel2.setText("WELCOME TO Arogya APPLICATION ");
         jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 50, 790, 50));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sanjeevaniapp/icons/icons/HomePageBG.jpg"))); // NOI18N
@@ -53,20 +53,21 @@ public class MainFrameSanjeevaniApplication extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(MainFrameSanjeevaniApplication.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(MainFrameArogyaApplication.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(MainFrameSanjeevaniApplication.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(MainFrameArogyaApplication.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(MainFrameSanjeevaniApplication.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(MainFrameArogyaApplication.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(MainFrameSanjeevaniApplication.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(MainFrameArogyaApplication.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new MainFrameSanjeevaniApplication().setVisible(true);
+                new MainFrameArogyaApplication().setVisible(true);
             }
         });
     }
@@ -95,7 +96,7 @@ public class MainFrameSanjeevaniApplication extends javax.swing.JFrame {
             }
             LoginScrrenn loginFrame = new LoginScrrenn();
             loginFrame.setVisible(true);
-            MainFrameSanjeevaniApplication.this.dispose();
+            MainFrameArogyaApplication.this.dispose();
         }
 
     }

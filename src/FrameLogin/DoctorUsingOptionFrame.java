@@ -6,8 +6,8 @@
 package FrameLogin;
 
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.UserProfile;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.UserProfile;
 
 /**
  *
@@ -53,7 +53,7 @@ public class DoctorUsingOptionFrame extends javax.swing.JFrame {
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
-        jLabel2.setText("Sanjeevani Application");
+        jLabel2.setText("Arogya Application");
         jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 80, -1, -1));
 
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -63,7 +63,7 @@ public class DoctorUsingOptionFrame extends javax.swing.JFrame {
         jPanel2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
         jPanel2.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sanjeevaniapp/icons/DoctorAdmin.png"))); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/arogyaapp/icons/DoctorAdmin.png"))); // NOI18N
         jPanel2.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 70, 150, 150));
 
         jLabel4.setBackground(new java.awt.Color(0, 0, 0));

@@ -1,4 +1,4 @@
-package sanjeevaniapp.dao;
+package arogyaapp.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,8 +7,8 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.PatientPojo;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.PatientPojo;
 
 /**
  *

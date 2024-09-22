@@ -6,8 +6,8 @@
 package FrameLogin;
 
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.UserProfile;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.UserProfile;
 
 /**
  *
@@ -62,7 +62,7 @@ public class ManageEmployeeScreen extends javax.swing.JFrame {
 
         jLabel4.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel4.setText("Sannjevani Application ");
+        jLabel4.setText("Arogya Application ");
         jPanel1.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 60, -1, -1));
 
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);

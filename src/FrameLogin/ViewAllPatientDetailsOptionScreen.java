@@ -6,8 +6,8 @@
 package FrameLogin;
 
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.UserProfile;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.UserProfile;
 
 /**
  *
@@ -52,7 +52,7 @@ public class ViewAllPatientDetailsOptionScreen extends javax.swing.JFrame {
         jPanel2.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel5.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
-        jLabel5.setText("Sanjeevani Application ");
+        jLabel5.setText("Arogya Application ");
         jPanel2.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 30, -1, -1));
 
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sanjeevaniapp/icons/icons/HomePageBG1.jpg"))); // NOI18N

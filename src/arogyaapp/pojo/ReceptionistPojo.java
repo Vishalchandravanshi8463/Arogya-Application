@@ -1,4 +1,4 @@
-package sanjeevaniapp.pojo;
+package arogyaapp.pojo;
 
 public class ReceptionistPojo {
 

@@ -9,11 +9,11 @@ import java.sql.SQLException;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dao.AppointmentDao;
-import sanjeevaniapp.dao.PatientDao;
-import sanjeevaniapp.pojo.AppointmentPojo;
-import sanjeevaniapp.utility.Sender;
-import sanjeevaniapp.utility.SmsSender;
+import arogyaapp.dao.AppointmentDao;
+import arogyaapp.dao.PatientDao;
+import arogyaapp.pojo.AppointmentPojo;
+import arogyaapp.utility.Sender;
+import arogyaapp.utility.SmsSender;
 
 /**
  *

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sanjeevaniapp.dbutil;
+package arogyaapp.dbutil;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

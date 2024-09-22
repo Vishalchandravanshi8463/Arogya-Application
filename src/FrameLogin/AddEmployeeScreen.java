@@ -7,9 +7,9 @@ package FrameLogin;
 
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dao.EmpDao;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.EmpPojo;
+import arogyaapp.dao.EmpDao;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.EmpPojo;
 
 /**
  *
@@ -59,7 +59,7 @@ public class AddEmployeeScreen extends javax.swing.JFrame {
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel6.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
-        jLabel6.setText("Sanjeevani Application ");
+        jLabel6.setText("Arogya Application ");
         jPanel1.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(400, 70, -1, -1));
 
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);

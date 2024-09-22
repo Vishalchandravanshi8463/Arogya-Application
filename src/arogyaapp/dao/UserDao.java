@@ -3,17 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sanjeevaniapp.dao;
+package arogyaapp.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import sanjeevaniapp.pojo.User;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.EmpPojo;
-import sanjeevaniapp.pojo.ReceptionistPojo;
-import sanjeevaniapp.pojo.UserPojo;
+import arogyaapp.pojo.User;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.EmpPojo;
+import arogyaapp.pojo.ReceptionistPojo;
+import arogyaapp.pojo.UserPojo;
 
 /**
  *

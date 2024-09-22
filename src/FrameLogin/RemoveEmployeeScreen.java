@@ -8,8 +8,8 @@ package FrameLogin;
 import java.sql.SQLException;
 import java.util.List;
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dao.EmpDao;
-import sanjeevaniapp.dbutil.DBConnection;
+import arogyaapp.dao.EmpDao;
+import arogyaapp.dbutil.DBConnection;
 
 /**
  *
@@ -51,7 +51,7 @@ public class RemoveEmployeeScreen extends javax.swing.JFrame {
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 36)); // NOI18N
-        jLabel2.setText("Sanjeevani Application");
+        jLabel2.setText("Arogya Application");
         jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 40, -1, -1));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sanjeevaniapp/icons/icons/HomePageBG.jpg"))); // NOI18N

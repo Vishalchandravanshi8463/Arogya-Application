@@ -7,14 +7,14 @@ package FrameLogin;
 
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
-import sanjeevaniapp.dao.AppointmentDao;
-import sanjeevaniapp.dao.DoctorsDao;
-import sanjeevaniapp.dao.PatientDao;
-import sanjeevaniapp.dbutil.DBConnection;
-import sanjeevaniapp.pojo.AppointmentPojo;
-import sanjeevaniapp.pojo.PatientPojo;
-import sanjeevaniapp.utility.OTPSender;
-import sanjeevaniapp.utility.Sender;
+import arogyaapp.dao.AppointmentDao;
+import arogyaapp.dao.DoctorsDao;
+import arogyaapp.dao.PatientDao;
+import arogyaapp.dbutil.DBConnection;
+import arogyaapp.pojo.AppointmentPojo;
+import arogyaapp.pojo.PatientPojo;
+import arogyaapp.utility.OTPSender;
+import arogyaapp.utility.Sender;
 
 public class VerifyOTPScreen extends javax.swing.JFrame {
 

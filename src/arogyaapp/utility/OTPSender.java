@@ -1,5 +1,5 @@
 
-package sanjeevaniapp.utility;
+package arogyaapp.utility;
 
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.Unirest;
